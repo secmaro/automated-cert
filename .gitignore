@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated Outputs
+Generated_Certificates_PNG/
+Generated_Certificates_PDF/
+
+# Local User Datasets & Image Assets
+*.xlsx
+*.xls
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Virtual Environment
+venv/
+env/
