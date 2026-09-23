@@ -29,7 +29,7 @@ An automated Python tool designed to bulk-generate high-resolution personalized 
    Open `generate_certificates.py` and update the top configuration section with your Excel spreadsheet and template image file names:
    ```python
    EXCEL_FILE_NAME = "students.xlsx"
-   TEMPLATE_FILE_NAME = "batu_template.png"
+   TEMPLATE_FILE_NAME = "example_template.png"
    ```
 
 4. **Run the Generator:**
